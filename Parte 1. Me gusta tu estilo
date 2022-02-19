@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>PRIMER PROYECTO</title>
+      <link rel="stylesheet" href="proyecto1descripcion.css">
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Gideon+Roman&family=Gloria+Hallelujah&family=Pacifico&family=Permanent+Marker&family=Redressed&family=Roboto:ital,wght@1,100;1,300;1,900&family=Shizuru&family=Syne+Tactile&display=swap" rel="stylesheet">
+      </head>
+  <body>
+<H1> Jose Zambrano </h1>
+  <p id="OFICIO"> <em> Estudiante de Programacion. </em> </p>
+  <p id="descripcion"> Naci en <strong>Venezuela</strong>. Me gusta hacer deporte y estoy aprendiendo programacion. Siempre me ha gustado la tecnologia y las computadoras. </p>
+  </body>
+</html>
