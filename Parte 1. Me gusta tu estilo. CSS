@@ -1,0 +1,17 @@
+h1 {
+  color: #ba351e;
+  text-align: right;
+  text-decoration: underline;
+  font-size: 100px;
+}
+#OFICIO {
+  color: red;
+  text-align: center;
+  text-decoration: line-through;
+  font-size: 75px;
+}
+#descripcion {
+  font-size: 50px;
+  color: yellow;
+  font-family: 'Syne Tactile', cursive;
+}
